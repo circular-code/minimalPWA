@@ -3,13 +3,13 @@
   "name": "Minimal Progressive Web App",
   "icons": [
     {
-      "src": "android-chrome-512x512.png",
+      "src": "/img/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "piskel.png",
-      "sizes": "512x512",
+      "src": "/img/piskel.png",
+      "sizes": "192x192",
       "type": "image/png"
     }
   ],
