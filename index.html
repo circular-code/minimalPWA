@@ -25,7 +25,7 @@
   <script>
     // Check to make sure the browser supports service workers
   if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('service-worker.js', { scope: '/' })
+    navigator.serviceWorker.register('service-worker.js', { scope: '/minimalPWA/' })
       .then(() => {
         console.log('Service worker registered');
       })
