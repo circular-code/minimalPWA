@@ -1,9 +1,8 @@
 const CACHE_NAME = 'mpwa-cache-v1';
 const urlsToCache = [
   '/',
-  '/assets/style.css',
-  //'/assets/index.js',
-  //'/assets/img/pwa-stats.png',
+  '/src/style.css',
+  '/img/piskel.png',
 ];
 
 // Listen for the install event, which fires when the service worker is installing
