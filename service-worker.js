@@ -1,6 +1,5 @@
 const CACHE_NAME = 'mpwa-cache-v1';
 const urlsToCache = [
-  '/',
   'src/style.css',
   'img/piskel.png',
 ];
